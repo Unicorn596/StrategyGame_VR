@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 6bd3d00701313874184fa30884e196d3
+timeCreated: 1477537771
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - solider1: {fileID: 475944, guid: bc8684e070d76484ab5ffb8b973abbc9, type: 2}
+  - solider2: {fileID: 438306, guid: f54681e9fecd3854da12258ff13b342f, type: 2}
+  - solider3: {instanceID: 0}
+  - SoliderClass: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
